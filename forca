@@ -1,0 +1,2 @@
+qnt_letras=int(input('quantas letras possui a palavra que voce esta pensando?'))
+print('_'*qnt_letras)
