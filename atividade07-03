@@ -1,0 +1,5 @@
+número=int(input('digite um número:'))
+if número %2==0:
+    print('o número digitado é par!')
+else:
+    print('o número digitado é ímpar!')
